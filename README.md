@@ -57,3 +57,8 @@ Follow these instructions to set up and run the project locally.
 Start the development server:
 ```sh
 npm run serve
+```
+Start backend:
+```sh
+npm run backend
+```
