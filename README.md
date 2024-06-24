@@ -41,7 +41,8 @@ Follow these instructions to set up and run the project locally.
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/stockpro.git
+    git clone https://github.com/lnpotter/StockPro.git # or
+    git clone https://github.com/yourusername/StockPro.git #if you forked it
     ```
 2. Navigate to the project directory:
     ```sh
